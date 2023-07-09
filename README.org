@@ -1,0 +1,9 @@
+* cl-jwk
+
+Common Lisp system for decoding public JSON Web Keys (JWK)
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/dnaeon/cl-jwk.git |
+| commit  | 88f87d9                                  |
+| systems | cl-jwk                                   |
+|---------+------------------------------------------|
